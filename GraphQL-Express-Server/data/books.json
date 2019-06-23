@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Northanger Abbey",
+    "year_written": 1814,
+    "edition": "Penguin",
+    "price": 18.2,
+    "id": "book01",
+    "authorId": "author01"
+  },
+  {
+    "title": "War and Peace",
+    "year_written": 1865,
+    "edition": "Penguin",
+    "price": 12.7,
+    "id": "book11",
+    "authorId": "author11"
+  },
+  {
+    "title": "Anna Karenina",
+    "year_written": 1875,
+    "edition": "Penguin",
+    "price": 13.5,
+    "id": "book21",
+    "authorId": "author21"
+  },
+  {
+    "title": "Mrs. Dalloway",
+    "year_written": 1925,
+    "edition": "Harcourt Brace",
+    "price": 25,
+    "id": "book31",
+    "authorId": "author31"
+  },
+  {
+    "title": "The Hours",
+    "year_written": 1999,
+    "edition": "Harcourt Brace",
+    "price": 12.35,
+    "id": "book41",
+    "authorId": "author41"
+  },
+  {
+    "title": "Huckleberry Finn",
+    "year_written": 1865,
+    "edition": "Penguin",
+    "price": 5.76,
+    "id": "book51",
+    "authorId": "author51"
+  },
+  {
+    "title": "Bleak House",
+    "year_written": 1870,
+    "edition": "Random House",
+    "price": 5.75,
+    "id": "book61",
+    "authorId": "author61"
+  },
+  {
+    "title": "Tom Sawyer",
+    "year_written": 1862,
+    "edition": "Random House",
+    "price": 7.75,
+    "id": "book71",
+    "authorId": "author71"
+  },
+  {
+    "title": "A Room of One's Own",
+    "year_written": 1922,
+    "edition": "Penguin",
+    "price": 29,
+    "id": "book81",
+    "authorId": "author81"
+  },
+  {
+    "title": "Harry Potter",
+    "year_written": 2000,
+    "edition": "Harcourt Brace",
+    "price": 19.95,
+    "id": "book91",
+    "authorId": "author91"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "year_written": 1967,
+    "edition": "Harper  Perennial",
+    "price": 14,
+    "id": "book101",
+    "authorId": "author101"
+  },
+  {
+    "title": "Hamlet, Prince of Denmark",
+    "year_written": 1603,
+    "edition": "Signet  Classics",
+    "price": 7.95,
+    "id": "book111",
+    "authorId": "author111"
+  },
+  {
+    "title": "Lord of the Rings",
+    "year_written": 1937,
+    "edition": "Penguin",
+    "price": 27.45,
+    "id": "book121",
+    "authorId": "author121"
+  },
+  {
+    "id": "r1M4oRucN",
+    "title": "Pride and Prejudice",
+    "year_written": 1813,
+    "edition": "Penguin",
+    "price": 201,
+    "authorId": "author01"
+  }
+]

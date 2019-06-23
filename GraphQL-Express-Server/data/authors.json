@@ -1,0 +1,54 @@
+[
+    {
+        "id": "author01",
+        "name": "Austen, Jane"
+    },
+    {
+        "id": "author11",
+        "name": "Tolstoy, Leo"
+    },
+    {
+        "id": "author21",
+        "name": "Tolstoy, Leo"
+    },
+    {
+        "id": "author31",
+        "name": "Woolf, Virginia"
+    },
+    {
+        "id": "author41",
+        "name": "Cunnningham, Michael"
+    },
+    {
+        "id": "author51",
+        "name": "Twain, Mark"
+    },
+    {
+        "id": "author61",
+        "name": "Dickens, Charles"
+    },
+    {
+        "id": "author71",
+        "name": "Twain, Mark"
+    },
+    {
+        "id": "author81",
+        "name": "Woolf, Virginia"
+    },
+    {
+        "id": "author91",
+        "name": "Rowling, J.K."
+    },
+    {
+        "id": "author101",
+        "name": "Marquez"
+    },
+    {
+        "id": "author111",
+        "name": "Shakespeare"
+    },
+    {
+        "id": "author121",
+        "name": "Tolkien, J.R."
+    }
+]
